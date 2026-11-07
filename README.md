@@ -2,6 +2,8 @@
 
 Siyah lake gövdeli, alüminyum iç kasalı bir rüzgar çakmağını kaydırmaya bağlı 3D animasyonla tanıtan tek sayfalık site. Çakmak Blender'da modellenip boyandı ve sayfada gerçek zamanlı olarak gösteriliyor.
 
+**Canlı site:** https://ritzykey.github.io/cakmak-site/
+
 ![Açılış: çakmak sağda, kapalı](docs/screenshots/01-acilis.png)
 
 ## Kaydırdıkça
