@@ -13,7 +13,7 @@ import {
 } from "@/lib/content";
 import { calloutEls, scrollState } from "@/lib/store";
 
-const MODEL_URL = "/models/cakmak.glb";
+const MODEL_URL = `${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/models/cakmak.glb`;
 const SCALE = 40;
 const LID_OPEN = THREE.MathUtils.degToRad(95);
 const Z_AXIS = new THREE.Vector3(0, 0, 1);
